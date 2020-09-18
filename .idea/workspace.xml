@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2bfa52ce-8512-4a10-9ba4-9e858d029bdc" name="Default Changelist" comment="" />
+    <list default="true" id="2bfa52ce-8512-4a10-9ba4-9e858d029bdc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/fundbio20-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fundbio20-2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/hashes.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/hashes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mobirise/css/mbr-additional.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/mobirise/css/mbr-additional.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/theme/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/theme/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caso_clinico.html" beforeDir="false" afterPath="$PROJECT_DIR$/caso_clinico.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nosotros.html" beforeDir="false" afterPath="$PROJECT_DIR$/nosotros.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.mobirise" beforeDir="false" afterPath="$PROJECT_DIR$/project.mobirise" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyecto.html" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publish-hashes.json" beforeDir="false" afterPath="$PROJECT_DIR$/publish-hashes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semana02.html" beforeDir="false" afterPath="$PROJECT_DIR$/semana02.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hbgmJfhgDaajw14cmvVAcdmBas" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,5 +49,11 @@
       <updated>1600285362379</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1600285846236">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600285846236" />
   </component>
 </project>
