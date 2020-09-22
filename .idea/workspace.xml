@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bfa52ce-8512-4a10-9ba4-9e858d029bdc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/fundbio20-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fundbio20-2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/hashes.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/hashes.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/mobirise/css/mbr-additional.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/mobirise/css/mbr-additional.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/theme/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/theme/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/caso_clinico.html" beforeDir="false" afterPath="$PROJECT_DIR$/caso_clinico.html" afterDir="false" />
@@ -15,6 +11,7 @@
       <change beforePath="$PROJECT_DIR$/project.mobirise" beforeDir="false" afterPath="$PROJECT_DIR$/project.mobirise" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proyecto.html" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/publish-hashes.json" beforeDir="false" afterPath="$PROJECT_DIR$/publish-hashes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshot.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/semana02.html" beforeDir="false" afterPath="$PROJECT_DIR$/semana02.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
