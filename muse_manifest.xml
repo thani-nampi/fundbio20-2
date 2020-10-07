@@ -1,180 +1,97 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://thani-nampi.github.io/fundbio20-2/nosotros.html" resolutions="1x" timestamp="1599666891244">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://thani-nampi.github.io/fundbio20-2" resolutions="1x" timestamp="1602096353694">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="45391056" ref="index"/>
-    <file name="nomq_index.css" crc="214379847" ref="index"/>
+    <file name="master_a-master.css" crc="4236556989" ref="index"/>
+    <file name="index.css" crc="480972847" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="3939489907" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
     <file name="webpro.js" crc="3856315280" ref="index"/>
     <file name="musewpslideshow.js" crc="244150766" ref="index"/>
     <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
     <file name="touchswipe.js" crc="3888935200" ref="index"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
     <file name="require.js" crc="4177726516" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="362164405" ref="index"/>
-    <file name="team-01.png" crc="268608189" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="a-master-favicon.ico" crc="4100760751" ref="index"/>
+    <file name="tumi.svg" crc="4066852654" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="team-02.png" crc="3767171016" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="tumi_poster_.png" crc="3851488256" ref="index"/>
+    <file name="nosotrostit.svg" crc="174546080" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="team-03.png" crc="3822940109" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="nosotrostit_poster_.png" crc="330724386" ref="index"/>
+    <file name="team-02.png" crc="4198740029" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="team-04.png" crc="107282221" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="team-04.png" crc="4261700211" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="team-09.png" crc="11256192" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="team-10.png" crc="273200218" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="team-10.png" crc="4275943543" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="team-14.png" crc="4089782568" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="team-13.png" crc="4186992263" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="team-08.png" crc="381074435" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="team-14.png" crc="344559087" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="team-06.png" crc="3844753898" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="team-07.png" crc="4098288580" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="team-12.png" crc="4078671681" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="team-08.png" crc="3770257979" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="team-01.png" crc="4080182044" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="team-05.png" crc="3998232399" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="team-02-u121-r-fr.png" crc="416039068" ref="index"/>
+    <file name="team-03.png" crc="4115580030" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="team-06.png" crc="496378448" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="team-04-u957-r-fr.png" crc="4169218526" ref="index"/>
+    <file name="team-09.png" crc="52990780" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="team-11.png" crc="4086948686" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="team-10-u1028-r-fr.png" crc="3986699064" ref="index"/>
+    <file name="team-11.png" crc="433905141" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="team-12.png" crc="4261055611" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="team-12-u1276-r-fr.png" crc="4072726314" ref="index"/>
+    <file name="team-13.jpg" crc="3891736668" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="team-14-u1102-r-fr.png" crc="510507336" ref="index"/>
+    <file name="team-07.png" crc="36783720" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="team-08-u1157-r-fr.png" crc="198430527" ref="index"/>
+    <file name="team-05.png" crc="3894332558" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="team-06-u1212-r-fr.png" crc="50840733" ref="index"/>
+    <file name="covidpeople.svg" crc="4248604568" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="covidpeople_poster_.png" crc="31847824" ref="index"/>
+    <file name="thani.svg" crc="4133025498" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="thani_poster_.png" crc="522596142" ref="index"/>
+    <file name="nampi.svg" crc="440649986" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nampi_poster_.png" crc="4164388546" ref="index"/>
+    <file name="pucp-upch-logos.svg" crc="4256168383" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pucp-upch logos_poster_.png" crc="4154380519" ref="index"/>
   </folder>
-  <file name="index.html" crc="157007141" seo="true" mt="1599666543853" redirect="true"/>
+  <file name="index.html" crc="4243283199" seo="true" mt="1602096228713" redirect="true"/>
 </manifest>
